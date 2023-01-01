@@ -3,7 +3,7 @@ body
     text-align: center;
     font-family: Baloo;
     padding: 100px;
-    background-image: linear-gradient(lightblue,white);
+    background-image: linear-gradient(#5DA4D9,white);
     background-repeat: no-repeat;
 }
 #title
